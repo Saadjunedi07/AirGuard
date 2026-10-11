@@ -1,0 +1,6 @@
+{
+  "name": "BreatheWise - Pune Air Quality & Clean Route Coach",
+  "description": "Proactive air quality guidance, smart clean transit routing, asthma protection, and exposure coaching tailored for Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
